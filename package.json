@@ -1,6 +1,6 @@
 {
   "name": "todo-list",
-  "homepage": "https://Mudassirkhan2.github.io/PrioritizeMe/",
+  "homepage": "https://Mudassirkhan2.github.io/prioritizeme/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
